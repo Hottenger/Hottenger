@@ -1,5 +1,9 @@
 <img src="https://raw.githubusercontent.com/imfunniee/imfunniee.github.io/master/fimbo/img/fimbo.png"/>
 
+# Is this a header?
+
+## Is this another header type?
+
 ### Free to use Portfolio Templates
 
 See them in action [here](https://imfunniee.github.io/fimbo)

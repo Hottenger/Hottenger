@@ -1,10 +1,14 @@
 <img src="https://raw.githubusercontent.com/imfunniee/imfunniee.github.io/master/fimbo/img/fimbo.png"/>
 
-# Is this a header?
+# About
+(In progress)
 
-## Is this another header type?
+## Expertise
+(In progress)
 
 ### Free to use Portfolio Templates
+
+(In progress)
 
 See them in action [here](https://imfunniee.github.io/fimbo)
 

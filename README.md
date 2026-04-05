@@ -5,7 +5,9 @@ Hottenger is currently a single owner startup focused on delivering unequalled e
 
 ### Contact Information
 email: to be added
+
 phone: to be added
+
 location: region to be added
 
 # About the Owner

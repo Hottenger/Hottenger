@@ -16,6 +16,9 @@ location: region to be added
 # Expertise
 (In progress)
 
+# Quality Assurance
+Hottenger offer an exceptional level of assurance via multi-method verification. Multi-method verification is the use of multiple analysis techniques (where reasonably applicable) to achive the same or similar conclusion for any analysis. Depending on the available capitol, client needs, or engineering judgement, either analysis solution can be used.
+
 # Examples
 (In progress)
 

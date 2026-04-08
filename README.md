@@ -17,10 +17,17 @@ location: region to be added
 (In progress)
 
 # Quality Assurance
-Hottenger offer an exceptional level of assurance via multi-method verification. Multi-method verification is the use of multiple analysis techniques (where reasonably applicable) to achive the same or similar conclusion for any analysis. Depending on the available capitol, client needs, or engineering judgement, either analysis solution can be used.
+Hottenger offers an exceptional level of assurance via multi-method verification. Multi-method verification is the use of multiple analysis techniques (where reasonably applicable) to achive the same or similar conclusion for any analysis. Depending on the available capitol, client needs, or engineering judgement, either analysis solution can be used.
 
 # Examples
 (In progress)
+ 2d cavity flow
+ dam break
+ cylinder turbulance
+ need a structural analysis
+ need a modal analysis
+ nin linear dynamics example
 
 # Example Documentation
 (In progress)
+upload latex document that show jumble text and formatting
